@@ -8,6 +8,4 @@ This is Maven Project
 - Jenkins Plugins for Docker
 - Post Build in Jenkins Demo
 - Dockerize Build, Deploy & Run Container from Jenkins - 2nd Pipeline demo with docker build, deploy, run
-- Editing for checking webhooks
-
-
+- Editing for checking the webhook using github and jenkins
