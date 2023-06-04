@@ -10,3 +10,4 @@ This is Maven Project
 - Dockerize Build, Deploy & Run Container from Jenkins - 2nd Pipeline demo with docker build, deploy, run
 - Editing for checking the webhook using github and jenkins
 Added Upstream job. Upstream job is nothing but the elder projects will execute first and then current project will execute i.e output of the last project will be the input of the currnet project liek wise.
+Added pipeline view
